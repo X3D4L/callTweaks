@@ -22,7 +22,7 @@ A Vencord plugin that adds several quality-of-life improvements to Discord voice
  Removes the dark gradient overlay that appears when hovering a stream.
 
 ### Hide Stream Info
- Hides the **LIVE** indicator and stream quality badge (resolution / FPS).
+ Hides the **LIVE** indicator and stream quality badge (Resolution / FPS).
 
 ### Hide AKA Section
  Removes the **AKA badge**, nickname text, and separator dot in the call header.
