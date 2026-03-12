@@ -46,6 +46,12 @@ Then rebuild Vencord.
 For more information about installing custom Vencord plugins, see the official documentation:  
 https://docs.vencord.dev/installing/custom-plugins/
 
+## Bugs / Issues
+
+If you encounter any bugs or unexpected behavior, feel free to message me on Discord!
+
+Discord: nugget.8866
+
 # Author
 
 nugget :3
