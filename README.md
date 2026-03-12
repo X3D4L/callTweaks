@@ -1,7 +1,5 @@
 # CallTweaks
 
-***
-
 A Vencord plugin that adds several quality-of-life improvements to Discord voice and video calls.
 
 (• ω •)
@@ -35,8 +33,6 @@ A Vencord plugin that adds several quality-of-life improvements to Discord voice
 ### Hide Stream Preview
  Removes the preview image shown behind the **Watch Stream** button before joining a stream.
 
----
-
 ### Installation
 
 Place the plugin file inside:
@@ -46,8 +42,6 @@ Vencord/src/userplugins/
 ```
 
 Then rebuild Vencord.
-
----
 
 ### Author
 
