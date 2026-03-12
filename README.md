@@ -43,6 +43,9 @@ Vencord/src/userplugins/
 
 Then rebuild Vencord.
 
+For more information about installing custom Vencord plugins, see the official documentation:  
+https://docs.vencord.dev/installing/custom-plugins/
+
 # Author
 
 nugget :3
