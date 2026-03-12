@@ -35,7 +35,7 @@ A Vencord plugin that adds several quality-of-life improvements to Discord voice
 
 ---
 
-## Installation
+### Installation
 
 Place the plugin file inside:
 
@@ -47,6 +47,6 @@ Then rebuild Vencord.
 
 ---
 
-## Author
+### Author
 
 nugget :3
