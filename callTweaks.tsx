@@ -149,7 +149,7 @@ function cleanup() {
 
 export default definePlugin({
 name:"callTweaks",
-description:"Adds a toggle button for the voice call controls/members bar and various quality-of-life tweaks for Discord calls. (• ω •)",
+description:"Adds QoL tweaks for Discord calls. Found a bug? Feel free to DM me. (• ω •)",
 authors:[{name:"nugget :3",id:817382129352572948n}],
 
 options:{
@@ -229,4 +229,5 @@ observer.observe(document.body,{childList:true,subtree:true});
 stop(){
 cleanup();
 }
+
 });
