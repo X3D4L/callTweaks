@@ -1,5 +1,4 @@
-### CallTweaks
----
+# CallTweaks
 
 A Vencord plugin that adds several quality-of-life improvements to Discord voice and video calls.
 
