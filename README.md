@@ -50,7 +50,7 @@ https://docs.vencord.dev/installing/custom-plugins/
 
 If you encounter any bugs or unexpected behavior, feel free to message me on Discord!
 
-Discord: nugget.8866
+Discord: [nugget.8866](https://discord.com/users/817382129352572948)
 
 # Author
 
