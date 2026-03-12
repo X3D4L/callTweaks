@@ -4,7 +4,7 @@ A Vencord plugin that adds several quality-of-life improvements to Discord voice
 
 (• ω •)
 
-### Features
+# Features
 
 ### Toggle Call UI
  Adds a button next to **Pinned Messages** that lets you hide or show the call members and controls bar.
