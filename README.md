@@ -56,6 +56,7 @@ Alternatively, you can open my profile directly through your console:
 
 ```js
 Vencord.Util.openUserProfile("817382129352572948")
+```
 # Author
 
 nugget :3
