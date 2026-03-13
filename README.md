@@ -50,7 +50,11 @@ https://docs.vencord.dev/installing/custom-plugins/
 
 If you encounter any bugs or unexpected behavior, feel free to message me on Discord!
 
-Discord: [nugget.8866](https://discord.com/users/817382129352572948) or click my author profile in the plugin settings.
+Discord: [nugget.8866](https://discord.com/users/817382129352572948) 
+or run this script in your console:
+```
+Vencord.Util.openUserProfile("817382129352572948")
+```
 
 # Author
 
