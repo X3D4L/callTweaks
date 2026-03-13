@@ -48,14 +48,14 @@ https://docs.vencord.dev/installing/custom-plugins/
 
 ## Bugs / Issues
 
-If you encounter any bugs or unexpected behavior, feel free to message me on Discord!
+If you encounter any bugs, errors, or unexpected behavior, please feel free to reach out.
 
-Discord: [nugget.8866](https://discord.com/users/817382129352572948) 
-or run this script in your console:
-```
+**Discord:** [nugget.8866](https://discord.com/users/817382129352572948)
+
+Alternatively, you can open my profile directly through your console:
+
+```js
 Vencord.Util.openUserProfile("817382129352572948")
-```
-
 # Author
 
 nugget :3
